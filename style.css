@@ -8,7 +8,7 @@ body {
  background-color: #96fbab 
 }
 
-butn{
+#butn{
    display: flex;
    margin-top: 2em; 
    width:90%;
@@ -16,7 +16,7 @@ butn{
    margin-left: auto;
    margin-right: auto;
 
-   border-stylr:solid;
+   border-style:solid;
    border-color: white;
    border-width:5px;
    border-radius: 5px;
@@ -73,12 +73,12 @@ h3 {
   text-align:center;
 }
 
-happy main{
+section{
     background-color:#40f866; 
-      color:#046b19;
-       font-family::monospace;
+    color:#046b19;
+    font-family:monospace;
     border: 3px solid white;
-     test-align:center;
+     text-align:center;
 }/* trying to change the text alignment, font and color*/
 
 .block{background-color:#40f866; 
