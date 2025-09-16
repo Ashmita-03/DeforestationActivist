@@ -32,13 +32,12 @@ butn{
 }
 
 /* STYLE NAV BAR */
-.navbar{
-  ul{list-style-type: none;
+.navbar ul{list-style-type: none;
   background-color:#069323; 
   overflow: hidden;
   padding:1em;
      text-align: center;
-    }
+  
 }
 li{
   display: inline;
@@ -74,15 +73,12 @@ h3 {
   text-align:center;
 }
 
-happy{
-  main{
+happy main{
     background-color:#40f866; 
       color:#046b19;
        font-family::monospace;
     border: 3px solid white;
      test-align:center;
-
-  }
 }/* trying to change the text alignment, font and color*/
 
 .block{background-color:#40f866; 
