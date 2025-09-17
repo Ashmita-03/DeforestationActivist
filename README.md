@@ -15,7 +15,7 @@ This project is built as a project in girls who code summercamp for raising awar
 - portfolio.html ---> More info page
 - style.css---> rendering of the style elements of the website
 
-### ← Struggles and Learnings
+### Struggles and Learnings
 
 I struggled a bit in adding the image with proper css borders. I learned to build a fully functional website that can create an impact.
 
