@@ -18,3 +18,6 @@ This project is built as a project in girls who code summercamp for raising awar
 ### ← Struggles and Learnings
 
 I struggled a bit in adding the image with proper css borders. I learned to build a fully functional website that can create an impact.
+
+<img src="blob:chrome-untrusted://media-app/c79f7cbd-8005-4852-ac57-1015f294ee15" /><img width="1355" height="599" alt="image" src="https://github.com/user-attachments/assets/5d19d07c-908a-4eb0-833f-f11c28646b45" />
+
